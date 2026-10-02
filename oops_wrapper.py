@@ -200,7 +200,7 @@ while True:
     
     else:
         # when user entered invalid choice..
-        print("Invalid Choice Enterted !")
+        print("Invalid Choice Entered !")
 
         print()
  
