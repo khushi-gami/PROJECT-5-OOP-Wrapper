@@ -203,6 +203,10 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+
+# Ignore .gitignore itself
+# .gitignore
+
 # Ruff stuff:
 .ruff_cache/
 
