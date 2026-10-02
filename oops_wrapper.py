@@ -31,8 +31,8 @@ class Employee():
         print("Employee Details : ")
         print(f"Name : {self.name}")
         print(f"Age : {self.age}")
-        print(f"Employee ID : {self.get_employee_id()}")
-        print(f"Salary : {self.get_salary()}")
+        print(f"Employee ID : {self.__employee_id}")
+        print(f"Salary : {self.__salary}")
 
 
 # ----------------------------------- Create Manager Class ------------------------------------
