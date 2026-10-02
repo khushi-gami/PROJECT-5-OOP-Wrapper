@@ -205,7 +205,7 @@ tempCodeRunnerFile.py
 
 
 # Ignore .gitignore itself
-# .gitignore
+.gitignore
 
 # Ruff stuff:
 .ruff_cache/
